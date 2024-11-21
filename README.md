@@ -102,7 +102,6 @@ ai-project/
         └── synthetic_data.md
 
 
-
 🌐 Deployment
 ApexAI leverages a scalable cloud-based infrastructure using AWS:
 
