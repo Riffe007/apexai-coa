@@ -17,7 +17,7 @@ ApexAI is a state-of-the-art AI framework designed to analyze, generate, and opt
 ---
 
 ## 📁 Project Structure
-
+```plaintext
 ai-project/
 ├── .github/
 │   ├── workflows/
@@ -100,6 +100,7 @@ ai-project/
     └── tutorials/                           # Tutorials and walkthroughs
         ├── federated_learning.md
         └── synthetic_data.md
+```
 
 
 🌐 Deployment
